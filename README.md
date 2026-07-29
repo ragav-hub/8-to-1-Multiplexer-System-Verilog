@@ -210,6 +210,7 @@ endmodule
 
 ### Simulation Output
 
+<img width="1915" height="1141" alt="Screenshot 2026-07-28 144040" src="https://github.com/user-attachments/assets/56b722b5-b856-4b0d-8c73-717f8eb7e7be" />
 
 
 
